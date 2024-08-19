@@ -5,8 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ubeydullah-g%c3%bcr-84b341294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ubeydullah-g%c3%bcr-84b341294/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ubeydgur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ubeydgur" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/ubeydullah-g%c3%bcr-84b341294/](https://www.linkedin.com/in/ubeydullah-g%C3%BCr-84b341294/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ubeydullah-g%c3%bcr-84b341294/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ubeydgur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ubeydgur" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
