@@ -1,13 +1,3 @@
-```py
-
-def main():
-    full_name = "Ubeyd Gür"
-
-return 0
-    
-```
-
-
 <h1 align="center">Hi 👋, I'm Ubeydullah</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
